@@ -1,7 +1,7 @@
 <p align="center">
 <img width="300" alt="What even are these animals..?" src="https://github.com/user-attachments/assets/fc3f72f7-7fbb-4df1-b9e1-bbfe521bb4c5" />
 
-# Hi, I'm [Omid](https://github.com/hemmatio) 👋
+# Hi, I'm [Omid](https://omidhemmati.com/) 👋
 
 🎓 Computer Science @ University of Toronto  
 💻 Software Developer with experience in test infrastructure, web applications, and developer tools  
