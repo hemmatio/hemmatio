@@ -12,7 +12,7 @@
 
 ## Open Source Contributions
 - **[MemoryViz](https://github.com/david-yz-liu/memory-viz)**: Node.js package for Python memory visualization with over 39,000 downloads.  
-- **[MarkUs](https://github.com/MarkUsProject/Markus)**: Web application for assignment submission and grading, serving 10,000+ users.
+- **[MarkUs](https://github.com/MarkUsProject/Markus)**: Ruby on Rails full-stack application for assignment submission and grading, serving 10,000+ users.
 
 ## Projects
 - **[Instagram Unfollowers](https://instagram-unfollowers.streamlit.app/)**  
