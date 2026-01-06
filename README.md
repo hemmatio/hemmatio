@@ -7,6 +7,7 @@
 💻 Software Developer with experience in test infrastructure, web applications, and developer tools  
 
 ## Experience
+- **Shopify**: Software Engineer Intern
 - **Nokia**: Software Test Infrastructure Intern  
 - **University of Toronto Dept. of CS**: Software Developer Intern  
 
