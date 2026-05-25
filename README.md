@@ -17,6 +17,11 @@
 - **[MarkUs](https://github.com/MarkUsProject/Markus)**: Ruby on Rails full-stack application for assignment submission and grading, serving 10,000+ users.
 
 ## Projects
+- **[Wio](https://wio.onl)**  
+  A backend-as-a-service platform for developing web applications with AI agents, featuring instant zero-config deployment, a managed database, and real-time websockets.  
+  *TypeScript, Bun, Fastify, PostgreSQL*
+
+
 - **[Instagram Unfollowers](https://instagram-unfollowers.streamlit.app/)**  
   A social media analytics app that identifies unfollower trends from Instagram JSON exports, built with Python and Streamlit.  
   *Python, Streamlit*
