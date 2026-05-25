@@ -16,7 +16,7 @@
 - **[MemoryViz](https://github.com/david-yz-liu/memory-viz/pulls?q=is%3Apr+author%3Ahemmatio+is%3Amerged)**: Contributed core modules to the Node.js package for Python memory visualization (over 39,000 downloads).  
 - **[MarkUs](https://github.com/MarkUsProject/Markus/pulls?q=is%3Apr+author%3Ahemmatio+is%3Amerged)**: Contributed features and optimizations to the Ruby on Rails application for assignment submission and grading (serving 10,000+ students).  
 - **[Apache Flink #27991](https://github.com/apache/flink/pull/27991)**: Parameterized `allowNonRestoredState` in `restoreInitialCheckpointIfPresent` to improve checkpoint restoration flexibility in the core streaming runtime.  
-- **[Flink BigQuery Connector #258](https://github.com/GoogleCloudDataproc/flink-bigquery-connector/pull/258)**: Resolved a critical bug where trailing zeros in temporal literals broke BigQuery SQL filter pushdowns.  
+- **[Google Cloud Flink BigQuery Connector #258](https://github.com/GoogleCloudDataproc/flink-bigquery-connector/pull/258)**: Resolved a critical bug where trailing zeros in temporal literals broke BigQuery SQL filter pushdowns.  
 
 ## Projects
 - **[Wio](https://wio.onl)**  
